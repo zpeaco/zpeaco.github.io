@@ -1,0 +1,21 @@
+body {
+    background: darkorange;
+    color: blanchedalmond;
+    font-size: 15-pt;
+    font-family: 'Lora', serif;
+}
+
+h1 {
+    background: darkblue;
+}
+
+li{
+
+}
+nav li{
+    display: inline-block;
+    border: 3px whitesmoke;
+    padding: 8px;
+    background: chocolate;
+}
+
